@@ -21,7 +21,7 @@ This project is a calculator built using **Vue.js** as part of my journey in **f
 1. Make sure your device has Git, Node.js and Vue.js installed.
 2. Clone this repository to a folder in your device:
    ```sh
-   git clone https://github.com/GustavoKasaki/landing-page-disney.git
+   git clone https://github.com/GustavoKasaki/gmk-calculator-vue.git
    ```
 4. Install the project's dependencies:
    ```sh
